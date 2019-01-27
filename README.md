@@ -17,4 +17,4 @@ I have a degree in Economics and a Masters in Geopolitics & Grand Strategy.
 
 | Project Title  | Description  | Technologies Used  |
 | -------------- | -----------  | -----------------  |
-| Final Group Project: RadioRoom https://github.com/alakijaayo/Radioroom https://makersradioroom.herokuapp.com/  | A music & social application that allows users to listen, share, sync and discuss music in a collaborative space using Spotify’s Web API. | React, Node.js, WebSockets, Bootstap, Jest, Enzyme, Spotify API, Travis CI, Heroku |
+| Final Group Project: RadioRoom [Github](https://github.com/alakijaayo/Radioroom) [Live App](https://makersradioroom.herokuapp.com/)  | A music & social application that allows users to listen, share, sync and discuss music in a collaborative space using Spotify’s Web API. | React, Node.js, WebSockets, Bootstap, Jest, Enzyme, Spotify API, Travis CI, Heroku |
