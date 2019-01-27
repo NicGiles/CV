@@ -18,3 +18,15 @@ I have a degree in Economics and a Masters in Geopolitics & Grand Strategy.
 | Project Title  | Description  | Technologies Used  |
 | -------------- | -----------  | -----------------  |
 | Final Group Project: RadioRoom [Github](https://github.com/alakijaayo/Radioroom) RadioRoom [Live App](https://makersradioroom.herokuapp.com/)  | A music & social application that allows users to listen, share, sync and discuss music in a collaborative space using Spotify’s Web API. | React, Node.js, WebSockets, Bootstap, Jest, Enzyme, Spotify API, Travis CI, Heroku |
+
+| Group Project: [Acebook](https://github.com/FlorenceHapgood/acebook-rails-the-spartans) | Acebook was our first chance to work as a group towards a specific set of goals. We used Agile development practices including sprints and regular team meetings. | Ruby on Rails, Heroku/AWS, CSS,
+RSpec with CapyBara, TravisCI |
+
+| Group Project: [Makers BnB](https://github.com/NadiaAiraf/Kangaroo_MakersAirBnb) | Our first project in Javascript. An Air BnB app which allows users to register and list their spaces. | Javascript,
+Node.js, Zombie, Jasmine, MongoDB |
+
+| Individual Project : [Instragram Challenge](https://github.com/NicGiles/instagram-challenge) | Individual project in which I recreated a social media application. Users can sign in and share messages. | Ruby on Rails, Devise,
+RSpec with Capybara |
+
+| Individual Tech Test : [Bank Tech Test](https://github.com/NicGiles/Bank_Tech_Test) | An example tech test; a banking app which can handle & display transactions and record balances. | Ruby,
+RSpec |
