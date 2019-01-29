@@ -22,3 +22,26 @@ I have a degree in Economics and a Masters in Geopolitics & Grand Strategy.
 | Group Project: [Makers BnB](https://github.com/NadiaAiraf/Kangaroo_MakersAirBnb) | Our first project in Javascript. An Air BnB app which allows users to register and list their spaces. | Javascript, Node.js, Zombie, Jasmine, MongoDB |
 | Individual Project : [Instragram Challenge](https://github.com/NicGiles/instagram-challenge) | Individual project in which I recreated a social media application. Users can sign in and share messages. | Ruby on Rails, Devise, RSpec with Capybara |
 | Individual Tech Test : [Bank Tech Test](https://github.com/NicGiles/Bank_Tech_Test) | An example tech test; a banking app which can handle & display transactions and record balances. | Ruby, RSpec |
+
+
+## Previous Employment Experience
+
+In my previous career I worked as a data analyst for 5 years and gained extensive experience in data analysis and visualisation techniques, as well as team management and client relationships. 
+
+I have a strong background in statistical processes, which I was able to utilise successfully in a professional environment.
+
+**2016 - 2017 : MediaSense : Digital Performance Analyst**
+ Excel, Tableau, and ‘Abacus’ (MediaSense’s internal software)
+Client contact with key international partners including Adidas and Chanel
+
+**2013 - 2016 : Gorkana : Head Analyst**
+
+Data analysis & visualisation, time & people management, complex Boolean search strings.
+Managed a small team of analysts to provide monthly deliverables.
+Client contact with significant accounts both corporate and governmental, including Activision, JLL and the Department of Health.
+
+**2012 - 2013 : Quartix Ltd : Data Analyst**
+
+Created programme using VBS to identify errors in incoming data.
+Migrated processes towards SQL from Excel.
+Developed ‘safe-speed limit’ database.
