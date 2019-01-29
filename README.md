@@ -46,6 +46,13 @@ Created programme using VBS to identify errors in incoming data.
 Migrated processes towards SQL from Excel.
 Developed ‘safe-speed limit’ database.
 
+## Education
+
+2010-2012 : University of Sussex : MA Geopolitics & Grand Strategy
+
+2007-2010 : University of Sussex : BA (Hons) Economics
+
+
 
 ## Personal Interests
 
