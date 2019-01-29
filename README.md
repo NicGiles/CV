@@ -24,13 +24,14 @@ I have a degree in Economics and a Masters in Geopolitics & Grand Strategy.
 | Individual Tech Test : [Bank Tech Test](https://github.com/NicGiles/Bank_Tech_Test) | An example tech test; a banking app which can handle & display transactions and record balances. | Ruby, RSpec |
 
 
-## Previous Employment Experience
+## Previous Employment
 
 In my previous career I worked as a data analyst for 5 years and gained extensive experience in data analysis and visualisation techniques, as well as team management and client relationships. 
 
 I have a strong background in statistical processes, which I was able to utilise successfully in a professional environment.
 
-**2016 - 2017 : MediaSense : Digital Performance Analyst**
+**2016 - 2018 : MediaSense : Digital Performance Analyst**
+
  Excel, Tableau, and ‘Abacus’ (MediaSense’s internal software)
 Client contact with key international partners including Adidas and Chanel
 
