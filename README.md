@@ -27,7 +27,6 @@ I have a degree in Economics and a Masters in Geopolitics & Grand Strategy.
 ## Previous Employment
 
 In my previous career I worked as a data analyst for 5 years and gained extensive experience in data analysis and visualisation techniques, as well as team management and client relationships. 
-
 I have a strong background in statistical processes, which I was able to utilise successfully in a professional environment.
 
 **2016 - 2018 : MediaSense : Digital Performance Analyst**
@@ -46,3 +45,11 @@ Client contact with significant accounts both corporate and governmental, includ
 Created programme using VBS to identify errors in incoming data.
 Migrated processes towards SQL from Excel.
 Developed ‘safe-speed limit’ database.
+
+
+## Personal Interests
+
+Outside of my professional life I like to keep physically & socially active.
+I have a passion for music and enjoy going to a wide range of gigs and festivals, particularly Glastonbury.
+I enjoy playing several different sports and organise a 7 a side football team who compete each Wednesday, whilst in the summer months I play tennis on a weekly basis.
+I also enjoy cooking and have even managed to cook several of Jamie’s 15 minute meals in under 30 minutes.
