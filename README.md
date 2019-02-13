@@ -1,5 +1,7 @@
 ## Nic Giles : Software Engineer
 
+n.r.giles1@gmail.com
+
 I am a determined, creative and enthusiastic Full Stack Developer. 
 
 I’m looking for a role in which I can continue to grow and enhance my programming ability, whilst also contributing to a motivated and knowledgeable team.
